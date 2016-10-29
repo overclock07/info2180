@@ -31,6 +31,7 @@ window.onload = function ()
 			this.style.color = "#000000";
 		};
 
+		
 		div[i].onclick = function()
 		{
 			if (checkCanMove(parseInt(this.innerHTML)))
