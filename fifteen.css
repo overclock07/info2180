@@ -38,6 +38,7 @@ h1 {
 	position: relative;
 }
 
+
 /* This class should be applied to each of the 15 puzzle pieces. */
 .puzzlepiece {
 	background-image: url(http://i3.kym-cdn.com/photos/images/original/000/138/246/tumblr_lltzgnHi5F1qzib3wo1_400.jpg);
